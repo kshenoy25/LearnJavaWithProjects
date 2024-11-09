@@ -1,6 +1,5 @@
 package DinoTracker;
 
-import java.util.LinkedHashSet;
 
 public class DinoTrackerDemo {
     public static void main(String[] args) {
